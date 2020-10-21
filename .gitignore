@@ -23,6 +23,8 @@
 /config/draconicevolution/
 /llibrary/
 /FailedClasses/
+/cache/
+/DragonAPI/
 
 # Custom Ore Gen default templates #
 /config/CustomOreGen/modules/default/
@@ -43,7 +45,8 @@ usercache.json
 **/InvTweaks.cfg
 **/InvTweaksRules.txt
 **/splash.properties
-
+settings.rtg
+TimeUsage.txt
 
 # Miscellaneous #
 *.log
