@@ -26,6 +26,7 @@
 /cache/
 /DragonAPI/
 /config/BiomeTweaker/output/
+/config/pregenerator/
 
 # Custom Ore Gen default templates #
 /config/CustomOreGen/modules/default/
