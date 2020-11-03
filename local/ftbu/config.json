@@ -35,7 +35,7 @@
       "Welcome to the server!"
     ],
     "starting_items": [
-      "minecraft:apple 16 0"
+      "minecraft:torch 16 0"
     ]
   },
   "permissions_admin": {
