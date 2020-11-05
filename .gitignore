@@ -49,6 +49,8 @@ usercache.json
 **/splash.properties
 settings.rtg
 TimeUsage.txt
+UniqueNames.txt
+bookmarks.ini
 
 # Miscellaneous #
 *.log
