@@ -1,0 +1,266 @@
+{
+    "name": "BunkerA",
+    "criteria": {
+        "weight": 1000000
+    },
+    "tower": {
+        "type": "BUNKER",
+        "theme": {
+            "base": "QUARTZ",
+            "primary": {
+                "walls": {
+                    "type": "STRIPES",
+                    "data": [
+                        {
+                            "name": "gregtech:gt.stone.granite",
+                            "meta": 9
+                        },
+                        {
+                            "name": "gregtech:gt.stone.granite",
+                            "meta": 6
+                        },
+                        {
+                            "name": "gregtech:gt.stone.granite",
+                            "meta": 5
+                        },
+                        {
+                            "name": "gregtech:gt.stone.granite",
+                            "meta": 4
+                        },
+                        {
+                            "name": "gregtech:gt.stone.granite",
+                            "meta": 3
+                        },
+                        {
+                            "name": "gregtech:gt.stone.granite",
+                            "meta": 8
+                        },
+                        {
+                            "name": "gregtech:gt.stone.granite",
+                            "meta": 7
+                        }
+                    ]
+                },
+                "pillar": {
+                    "name": "gregtech:gt.stone.granite",
+                    "meta": 4
+                },
+                "stair": {
+                    "name": "minecraft:brick_stairs"
+                }
+            },
+            "secondary": {
+                "walls": {
+                    "name": "chisel:factoryblock",
+                    "meta": 14
+                },
+                "pillar": {
+                    "name": "chisel:factoryblock",
+                    "meta": 1
+                },
+                "stair": {
+                    "name": "minecraft:brick_stairs"
+                }
+            }
+        }
+    },
+    "levels": {
+        "0": {
+            "theme": {
+                "primary": {
+                    "walls": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:factoryblock",
+                            "meta": 5
+                        }
+                    },
+                    "pillar": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:factoryblock",
+                            "meta": 6
+                        }
+                    },
+                    "stair": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:aluminum_stairs.0"
+                        }
+                    }
+                },
+                "secondary": {
+                    "walls": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:technical",
+                            "meta": 15
+                        }
+                    },
+                    "pillar": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:technical"
+                        }
+                    },
+                    "stair": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:aluminum_stairs.0"
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "theme": {
+                "primary": {
+                    "walls": {
+                        "type": "CHECKERS",
+                        "data": [
+                            {
+                                "type": "METABLOCK",
+                                "data": {
+                                    "name": "chisel:aluminumblock"
+                                }
+                            },
+                            {
+                                "type": "METABLOCK",
+                                "data": {
+                                    "name": "chisel:factoryblock",
+                                    "meta": 8
+                                }
+                            }
+                        ]
+                    },
+                    "pillar": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:factoryblock",
+                            "meta": 6
+                        }
+                    },
+                    "stair": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:aluminum_stairs.0"
+                        }
+                    }
+                },
+                "secondary": {
+                    "walls": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:technical",
+                            "meta": 15
+                        }
+                    },
+                    "pillar": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:technical"
+                        }
+                    },
+                    "stair": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:aluminum_stairs.0"
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "theme": {
+                "primary": {
+                    "walls": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:technical"
+                        }
+                    },
+                    "pillar": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:technical2"
+                        }
+                    },
+                    "stair": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:aluminum_stairs.0"
+                        }
+                    }
+                },
+                "secondary": {
+                    "walls": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:technical"
+                        }
+                    },
+                    "pillar": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:technical2"
+                        }
+                    },
+                    "stair": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:aluminum_stairs.1"
+                        }
+                    }
+                }
+            }
+        },
+        "3": {
+            "theme": {
+                "primary": {
+                    "walls": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:laboratoryblock",
+                            "meta": 5
+                        }
+                    },
+                    "pillar": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:laboratoryblock:11",
+                            "meta": 11
+                        }
+                    },
+                    "stair": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:aluminum_stairs.1"
+                        }
+                    }
+                },
+                "secondary": {
+                    "walls": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:laboratoryblock",
+                            "meta": 4
+                        }
+                    },
+                    "pillar": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:laboratoryblock",
+                            "meta": 12
+                        }
+                    },
+                    "stair": {
+                        "type": "METABLOCK",
+                        "data": {
+                            "name": "chisel:aluminum_stairs.1"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
