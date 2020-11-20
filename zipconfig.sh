@@ -2,4 +2,4 @@
 
 VERSION=$1
 
-zip -r $VERSION.zip config/ local/ftbu/
+zip -r $VERSION.zip config/ local/ftbu/ scripts/

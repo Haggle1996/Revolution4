@@ -35,8 +35,20 @@
       "Welcome to the server!"
     ],
     "starting_items": [
-      "minecraft:torch 16 0",
-      "minecraft:dirt 64 0"
+      "openmodularturrets:fenceTierOne 64 0",
+      "openmodularturrets:hardWallTierOne 64 0",
+      "openmodularturrets:disposeItemTurret 8 0",
+      "openmodularturrets:leverBlock 8 0",
+      "openmodularturrets:baseTierWood 8 0",
+      "gregtech:gt.meta.rockGt 12 8508",
+      "gregtech:gt.meta.rockGt 64 8500",
+      "gregtech:gt.meta.rockGt 64 8500",
+      "Eln:Eln.SixNode 64 2052",
+      "Eln:Eln.SixNode 8 128",
+      "Eln:Eln.SixNode 16 4102",
+      "Eln:Eln.TransparentNode 16 1029",
+      "Eln:Eln.SixNode 16 6209",
+      "Eln:Eln.sharedItem 16 260"
     ]
   },
   "permissions_admin": {

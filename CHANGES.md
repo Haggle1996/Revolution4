@@ -4,6 +4,7 @@
   - [Tips for Server Operators](#tips-for-server-operators)
   - [Trivia](#trivia)
   - [Mod-specific changes](#mod-specific-changes)
+    - [Electrical Age](#electrical-age)
     - [Primitive Mobs](#primitive-mobs)
     - [Random Things](#random-things)
     - [Roguelike Dungeons](#roguelike-dungeons)
@@ -26,6 +27,10 @@
 
 ## Mod-specific changes
 
+### Electrical Age
+
+- Sending power to other mods is disabled; e.g., you can't use EA to power GT, RoC, etc.
+
 ### Primitive Mobs
 
 - Disabled natural spawning for dangerous mobs and reduced spawning for neutral mobs.
@@ -34,7 +39,6 @@
 
 - Disabled Spirit Binder
 - Spectre Armor is disabled
-- Blood moons disabled
 
 ### Roguelike Dungeons
 
