@@ -1,0 +1,313 @@
+{
+    
+    "images":
+    {
+        "sidebar":
+        {
+            "image" : "revolution:textures/gui/title/buttonBackground.png",
+            "posX" : 0,
+            "posY" : 0,
+            "width" : 120,
+            "height" : 1400,
+            "alignment" : "top_left"
+        },
+        "title":
+        {
+            "image" : "revolution:textures/gui/title/revolution4clown.png",
+            "posX" : -276,
+            "posY" : -220,
+            "width" : 200,
+            "height" : 100,
+            "alignment" : "center"
+        }        
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 10,
+            "posY" : -114,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "revolution:textures/gui/title/button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 10,
+            "posY" : -90,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "revolution:textures/gui/title/button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+            
+        "forums":
+        {
+            "text" : "Discord...",
+            "posX" : 10,
+            "posY" : -66,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "revolution:textures/gui/title/button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/HuxAZ7X"
+            }
+        },
+        
+        "issues":
+        {
+            "text" : "Issue Tracker...",
+            "posX" : 10,
+            "posY" : -42,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "revolution:textures/gui/title/button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://bit.ly/2IWN1zH"
+            }
+        },       
+             
+        "homepage":
+        {
+            "text" : "Website...",
+            "posX" : 10,
+            "posY" : -18,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "revolution:textures/gui/title/button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://bit.ly/384RdYg"
+            }
+        },    
+
+        "music":
+        {
+            "text" : "Aviator's Music...",
+            "posX" : 10,
+            "posY" : 6,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "revolution:textures/gui/title/button.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://bit.ly/333JTc2"
+            }
+        },         
+        
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 10,
+            "posY" : 30,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "revolution:textures/gui/title/button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 10,
+            "posY" : 54,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "revolution:textures/gui/title/button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 10,
+            "posY" : 78,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "revolution:textures/gui/title/button.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 5,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 28,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "bottom_left",
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -100,
+            "posY" : -5,
+            "color" : -1,
+            "fontSize" : 0.5,
+            "alignment" : "bottom_right"
+        },
+        
+        "aviators":
+        {
+            "text" : "Opening Music & Records Copyright by Aviators, used with permission!",
+            "posX" : "-176",
+            "posY" : "-10",
+            "color" : -1,
+            "fontSize" : 0.5,
+            "alignment" : "bottom_right"
+        },        
+                
+        "fml":
+        {
+            "text" : "",
+            "posX" : 123,
+            "posY" : -23,
+            "color" : -1,
+            "fontSize" : 0.5,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 120,
+            "posY" : 20,
+            "color" : -128,
+            "alignment" : "center",
+            "texts" : [
+                "You can slow and stop rot with an Esky or Freezer",
+                "In-game guide on left of inventory screen",
+                "Torches set wood on fire!",
+                "Lanterns are good alternatives to torches",
+                "Glowstone is not affected by gravity",
+                "Support columns are not affected by gravity",
+                "The Cave Dimension features easy ores",
+                "Build an elevator to access the Cave Dimension",
+                "Mushroom soup is an easy starter food",
+                "PB&Js are reasonably easy to make",
+                "Toast sandwiches for the win!",
+                "You will die -- if only to get CrC progression!",
+                "Every 8 days...",
+                "Sleep is for the weak! But it sets your spawn point!",
+                "Get your bottom to Bernard's Star!",
+                "Bone meal is used to locate ores within 8 blocks",
+                "Naturally-occurring ore flowers have a 30 block range",
+                "Every mechanic has a way to overcome it",
+                "Zombies will break some light sources",
+                "Not all mutant creatures want to eat you",
+                "Butterflies are useful",
+                "Some ores only spawn in the Cave Dimenson",
+                "Wheat, flour, and potatoes do not rot",
+                "Carpenter's Blocks aren't broken by zombies",
+                "Water wheels and windmills are for early RF",
+                "The Rotational Dynamo is great for RF power",
+                "Zombies fiddle with switches and buttons",
+                "Most blocks can be built out 2 or 3 blocks",
+                "Aluminum only spawns in swamps",
+                "Copper isn't rare, just hard to find",
+                "Most ores spawn in extremely long, thin veins",
+                "There is no good y-level to find most ores",
+                "Coal spawns just under the surface",
+                "Manasteel makes great early-game tools",
+                "Don't try to avoid RotaryCraft",
+                "BC Pipes are cheaper than EIO Conduits",
+                "The Arc Furnace makes diamonds easy",
+                "Save that gold and diamond armor for end-game",
+                "Zombies can build up as well as dig down",
+                "28 days later...",
+                "You can put silk-touched ores in the crusher",
+                "The Arc Furnace has the best yields",
+                "Whack corpse with shovel 3 times to remove"
+            ]
+        },
+        
+        "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : [
+                    "revolution:textures/gui/title/background/cover9.jpg",
+                    "revolution:textures/gui/title/background/cover10.jpg",
+                    "revolution:textures/gui/title/background/cover8.jpg",
+                    "revolution:textures/gui/title/background/cover1.jpg",
+                    "revolution:textures/gui/title/background/cover2.jpg",
+                    "revolution:textures/gui/title/background/cover6.jpg",
+                    "revolution:textures/gui/title/background/cover4.jpg",
+                    "revolution:textures/gui/title/background/cover5.jpg",
+                    "revolution:textures/gui/title/background/cover3.jpg",
+                    "revolution:textures/gui/title/background/cover0.jpg",
+                    "revolution:textures/gui/title/background/cover7.jpg"
+                ],
+                "displayDuration" : 100,
+                "fadeDuration" : 40
+            },
+            "mode" : "fill"
+        }
+    }
+}
