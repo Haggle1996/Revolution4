@@ -8,7 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-seo-tag", "~> 2.6.1"
   gem "jekyll-archives"
-  gem "tzinfo"
+  gem "tzinfo", "~> 1.2"
 end
 
 group :test do
@@ -18,7 +18,6 @@ end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
 
