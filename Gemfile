@@ -10,7 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-archives"
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
-  gem "wdm"
+  gem "wdm", "~> 0.1.1"
 end
 
 group :test do
@@ -24,4 +24,4 @@ end
 #end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+# gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
