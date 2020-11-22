@@ -10,7 +10,6 @@ group :jekyll_plugins do
   gem "jekyll-archives"
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
-  gem "wdm", "~> 0.1.1"
 end
 
 group :test do
