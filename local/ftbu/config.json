@@ -35,20 +35,21 @@
       "Welcome to the server!"
     ],
     "starting_items": [
-      "openmodularturrets:fenceTierOne 64 0",
-      "openmodularturrets:hardWallTierOne 64 0",
-      "openmodularturrets:disposeItemTurret 8 0",
-      "openmodularturrets:leverBlock 8 0",
-      "openmodularturrets:baseTierWood 8 0",
-      "gregtech:gt.meta.rockGt 12 8508",
-      "gregtech:gt.meta.rockGt 64 8500",
-      "gregtech:gt.meta.rockGt 64 8500",
+      "minecraft:torch 16 0",
+      "gregtech:gt.meta.rockGt 36 8508",
+      "gtweapons:unlockable_gun 1 29",
+      "gtweapons:gtweapons.meta.item.magazineLC 8 820",
+      "Eln:Eln.TransparentNode 1 257",
+      "Eln:Eln.TransparentNode 3 4096",
+      "Eln:Eln.TransparentNode 1 192",
       "Eln:Eln.SixNode 64 2052",
-      "Eln:Eln.SixNode 8 128",
+      "Eln:Eln.SixNode 2 2048",
+      "Eln:Eln.sharedItem 16 261",
       "Eln:Eln.SixNode 16 4102",
-      "Eln:Eln.TransparentNode 16 1029",
-      "Eln:Eln.SixNode 16 6209",
-      "Eln:Eln.sharedItem 16 260"
+      "Eln:Eln.SixNode 1 6400",
+      "Eln:Eln.TransparentNode 1 1029",
+      "Eln:Eln.SixNode 1 128",
+      "Eln:Eln.SixNode 1 6209"
     ]
   },
   "permissions_admin": {

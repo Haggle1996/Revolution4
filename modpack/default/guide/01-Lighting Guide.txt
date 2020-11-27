@@ -1,0 +1,31 @@
+§lLighting Guide
+
+Most (but not all) sources of infinite light in REVOLUTION|4 have been removed. In order to light up your base and world, you'll need to invest in Eletrical Age lighting. Basic setups are relatively straightforward and your starter kit includes enough components for a basic heat-furance-turbine setup that will power about 12 lights.
+
+It's important to note that most mobs will burst into flames at light level 8 and higher. 
+
+§lEarly Setup
+
+Torches will go out after a short while; you can right click on them to light them up again, but they will eventually burn out again.
+
+A detailed guide for your first Electrical Age power setup is located here: https://wiki.electrical-age.net/index.php?title=50V_example_build
+
+In a nutshell:
+1. Place the Stone Heat Furnace, Turbine, and 3 Thermal Dissipators in a line (red side of turbine touching the furnace, blue side touching the dissipators). 
+2. Place the Electrical Probe next to the turbine. 
+3. Place a signal cable between the furnace and probe (not the turbine). The furnace and proble should look connected.
+4. Right-click the probe, choose Voltage. Box 1 should be 50 and box 2 should be 55. Make sure a Low Voltage Cable is in the box in the lower right, then click Validate and Escape.
+5. Run your Low Voltage Cable along the floor, wall, and ceiling to where you want your lamps placed. I recommend putting the Low Voltage Switch somewhere along the line in a convenient place.
+6. Place a Simple Lamp Socket. Note the wires won't connect at first.
+7. Right click on the socket. Insert a bulb in the left-hand box. Insert a low voltage cable in the right-hand box. Click the 'Powered by Lamp Supply' button until it says 'Powered by cable'. Press Escape.
+8. Insert any furnace fuel into the furnace. Enjoy the sweet, sweet glow of your first lights!
+
+Your turbine should should self-regulate the power due to the Electrical Probe. The more lights, the faster your fuel will burn. The higher the quality of the fuel, the longer it will last. When not in use, flip the switch off (if used) to quickly reduce (but not eliminate) power consumption.
+
+You can chain up to 3 (technically more, but they'll exceed the wire capacity, so why?) turbines. 
+
+§lMid-game Setup
+
+Additional tutorials at the site linked about will provide you with setups for larger power systems. You will likely want a combination of wind and water-based power generation feeding batteries which in turn power a high-voltage power distribution system.
+
+EA Machines (macerator, magnetizer, compressor, etc.) are removed. You will need access to early GregTech electrical systems to move into larger setups.
