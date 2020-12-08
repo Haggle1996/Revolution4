@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://haggle1996.github.io/Revolution4/sitemap.xml
